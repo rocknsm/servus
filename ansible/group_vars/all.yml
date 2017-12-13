@@ -1,0 +1,4 @@
+---
+# This should contain default variables that are for the entire project
+# across all roles, groups, and hosts. Overrides should be done in 
+# a `globals.yml` located in the projects configuration dir (i.e. /etc/servus/globals)

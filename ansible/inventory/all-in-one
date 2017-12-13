@@ -1,0 +1,3 @@
+# This file should specify an abstraction of groups and the hosts
+# with minimal variable data. This inventory file should mimic the
+# multihost inventory, but touch only localhost via local connection

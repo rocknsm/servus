@@ -1,0 +1,4 @@
+# This file should specify an abstraction of groups and the hosts
+# with minimal variable data. This inventory file should cover any
+# and all groups used in the execution of the playbook, to include
+# nested groups as needed
