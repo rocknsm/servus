@@ -4,7 +4,7 @@ _(it's a working title)_
 The goal of this project is to implement the additional services 
 needed for a stand alone sensor deployment on an isolated network segment.
 The goal is to implement the core infrastructure services to enable
-deployment of [RockNSM](http://rocknsm.io), [CAPESstack](http://capestack.io),
+deployment of [RockNSM](http://rocknsm.io), [CAPESstack](http://capesstack.io),
 and similar projects by meeting the prerequisite needs on baremetal and
 possibly appliances, as needed.
 
